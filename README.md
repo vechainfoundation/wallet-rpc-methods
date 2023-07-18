@@ -2,7 +2,7 @@
 description: Vechain Thor Wallet JSON-RPC Methods
 ---
 
-# Ethereum
+# Vechain Thor - Wallet Methods
 
 ## thor_signCertificate
 
